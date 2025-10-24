@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1760914665,
+	"version": 1761332359,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,6 +29,9 @@
 		"images/sprite-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/cracks-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/startbutton-sheet0.png",
+		"images/bulletui-sheet0.png",
 		"media/alesis-s4-plus-harpsifunk-c3.m4a",
 		"media/alesis-s4-plus-harpsifunk-c3.ogg",
 		"media/alesis-s4-plus-harpsifunk-c4.m4a",
