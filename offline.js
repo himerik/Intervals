@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1761462347,
+	"version": 1761468109,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,8 @@
 		"media/explode.ogg",
 		"media/tok.m4a",
 		"media/tok.ogg",
+		"media/eshock.m4a",
+		"media/eshock.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
